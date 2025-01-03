@@ -1,0 +1,31 @@
+{
+   "customer":{
+      "name":"Alice Smith",
+      "age":28,
+      "gender":"female",
+      "address":"456 High Street, Anytown, USA",
+      "phone":"555-5678",
+      "email":"alice.smith@example.com",
+      "account":{
+         "account_number":"123456789",
+         "balance":10000.00,
+         "transactions":[
+            {
+               "date":"2022-12-15",
+               "description":"Deposit",
+               "amount":5000.00
+            },
+            {
+               "date":"2023-01-01",
+               "description":"Withdrawal",
+               "amount":-1000.00
+            },
+            {
+               "date":"2023-02-01",
+               "description":"Interest",
+               "amount":25.00
+            }
+         ]
+      }
+   }
+}

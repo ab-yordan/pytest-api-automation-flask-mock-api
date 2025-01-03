@@ -1,0 +1,16 @@
+{
+    "customer_id": 10011,
+    "full_name": "Alice Smith",
+    "phone": "555-5678",
+    "email": "alice.smith@example.com",
+    "account": [
+        {
+            "account_id": 30011,
+            "account_number": 220610060796001
+        },
+        {
+            "account_id": 30012,
+            "account_number": 241222060796001
+        }
+    ]
+}
