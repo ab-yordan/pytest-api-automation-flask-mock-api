@@ -33,6 +33,7 @@ curl --location --request GET '<localhost>/api/bank-account' \
 }'
 ```
 4. The endpoint response will come from `.\sample_test_api\data\bank_account.txt`
+5. Update base url in the following file `.\utils\api\endpoint.py `
 
 Reference: 
  * [Flask-Quickstart](<https://flask.palletsprojects.com/en/stable/quickstart/>)
